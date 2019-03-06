@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true">
+    <item android:drawable="@drawable/gorgon1" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon2" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon3" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon4" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon5" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon6" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon7" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon8" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon9" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon10" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon11" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon12" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon13" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon14" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon15" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon16" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon17" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon18" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon19" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon20" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon21" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon22" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon23" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon24" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon25" android:duration="150"/>
+    <item android:drawable="@drawable/gorgon26" android:duration="150"/>
+</animation-list>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true">
+    <item android:drawable="@drawable/wolf1" android:duration="150"/>
+    <item android:drawable="@drawable/wolf2" android:duration="150"/>
+    <item android:drawable="@drawable/wolf3" android:duration="150"/>
+    <item android:drawable="@drawable/wolf4" android:duration="150"/>
+    <item android:drawable="@drawable/wolf5" android:duration="150"/>
+    <item android:drawable="@drawable/wolf6" android:duration="150"/>
+    <item android:drawable="@drawable/wolf7" android:duration="150"/>
+    <item android:drawable="@drawable/wolf8" android:duration="150"/>
+    <item android:drawable="@drawable/wolf9" android:duration="150"/>
+    <item android:drawable="@drawable/wolf10" android:duration="150"/>
+    <item android:drawable="@drawable/wolf11" android:duration="150"/>
+    <item android:drawable="@drawable/wolf12" android:duration="150"/>
+    <item android:drawable="@drawable/wolf13" android:duration="150"/>
+    <item android:drawable="@drawable/wolf14" android:duration="150"/>
+    <item android:drawable="@drawable/wolf15" android:duration="150"/>
+    <item android:drawable="@drawable/wolf16" android:duration="150"/>
+    <item android:drawable="@drawable/wolf17" android:duration="150"/>
+    <item android:drawable="@drawable/wolf18" android:duration="150"/>
+    <item android:drawable="@drawable/wolf19" android:duration="150"/>
+    <item android:drawable="@drawable/wolf20" android:duration="150"/>
+    <item android:drawable="@drawable/wolf21" android:duration="150"/>
+    <item android:drawable="@drawable/wolf22" android:duration="150"/>
+</animation-list>

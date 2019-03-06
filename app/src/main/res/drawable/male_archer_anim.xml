@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true">
+    <item android:drawable="@drawable/male_archer1" android:duration="150"/>
+    <item android:drawable="@drawable/male_archer2" android:duration="150"/>
+    <item android:drawable="@drawable/male_archer3" android:duration="150"/>
+    <item android:drawable="@drawable/male_archer4" android:duration="150"/>
+    <item android:drawable="@drawable/male_archer5" android:duration="150"/>
+    <item android:drawable="@drawable/male_archer6" android:duration="150"/>
+    <item android:drawable="@drawable/male_archer7" android:duration="150"/>
+    <item android:drawable="@drawable/male_archer8" android:duration="150"/>
+    <item android:drawable="@drawable/male_archer9" android:duration="150"/>
+    <item android:drawable="@drawable/male_archer10" android:duration="150"/>
+    <item android:drawable="@drawable/male_archer11" android:duration="150"/>
+    <item android:drawable="@drawable/male_archer12" android:duration="150"/>
+    <item android:drawable="@drawable/male_archer13" android:duration="150"/>
+    <item android:drawable="@drawable/male_archer14" android:duration="150"/>
+    <item android:drawable="@drawable/male_archer15" android:duration="150"/>
+    <item android:drawable="@drawable/male_archer16" android:duration="150"/>
+    <item android:drawable="@drawable/male_archer17" android:duration="150"/>
+    <item android:drawable="@drawable/male_archer18" android:duration="150"/>
+    <item android:drawable="@drawable/male_archer19" android:duration="150"/>
+</animation-list>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true">
+    <item android:drawable="@drawable/cyclops1" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops2" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops3" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops4" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops5" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops6" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops7" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops8" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops9" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops10" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops11" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops12" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops13" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops14" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops15" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops16" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops17" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops18" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops19" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops20" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops21" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops22" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops23" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops24" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops25" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops26" android:duration="150"/>
+    <item android:drawable="@drawable/cyclops1" android:duration="150"/>
+</animation-list>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Basements and Basilisks</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string-array name="attackHeal">
+        <item>Attack</item>
+        <item>Heal</item>
+    </string-array>
+    <string name="radio_continue">Continue</string>
+    <string name="radio_quit">Quit</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true">
+    <item android:drawable="@drawable/spider1" android:duration="150"/>
+    <item android:drawable="@drawable/spider2" android:duration="150"/>
+    <item android:drawable="@drawable/spider3" android:duration="150"/>
+    <item android:drawable="@drawable/spider4" android:duration="150"/>
+    <item android:drawable="@drawable/spider5" android:duration="150"/>
+    <item android:drawable="@drawable/spider6" android:duration="150"/>
+    <item android:drawable="@drawable/spider7" android:duration="150"/>
+    <item android:drawable="@drawable/spider8" android:duration="150"/>
+    <item android:drawable="@drawable/spider9" android:duration="150"/>
+    <item android:drawable="@drawable/spider10" android:duration="150"/>
+    <item android:drawable="@drawable/spider11" android:duration="150"/>
+    <item android:drawable="@drawable/spider12" android:duration="150"/>
+    <item android:drawable="@drawable/spider13" android:duration="150"/>
+    <item android:drawable="@drawable/spider14" android:duration="150"/>
+    <item android:drawable="@drawable/spider15" android:duration="150"/>
+    <item android:drawable="@drawable/spider16" android:duration="150"/>
+    <item android:drawable="@drawable/spider17" android:duration="150"/>
+</animation-list>

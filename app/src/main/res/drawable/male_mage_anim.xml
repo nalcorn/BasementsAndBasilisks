@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true">
+    <item android:drawable="@drawable/male_mage1" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage2" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage3" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage4" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage5" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage6" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage7" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage8" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage9" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage10" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage11" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage12" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage13" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage14" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage15" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage16" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage17" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage18" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage19" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage20" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage21" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage22" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage23" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage24" android:duration="150"/>
+    <item android:drawable="@drawable/male_mage25" android:duration="150"/>
+</animation-list>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true">
+    <item android:drawable="@drawable/female_fighter1" android:duration="150"/>
+    <item android:drawable="@drawable/female_fighter2" android:duration="150"/>
+    <item android:drawable="@drawable/female_fighter3" android:duration="150"/>
+    <item android:drawable="@drawable/female_fighter4" android:duration="150"/>
+    <item android:drawable="@drawable/female_fighter5" android:duration="150"/>
+    <item android:drawable="@drawable/female_fighter6" android:duration="150"/>
+    <item android:drawable="@drawable/female_fighter7" android:duration="150"/>
+    <item android:drawable="@drawable/female_fighter8" android:duration="150"/>
+    <item android:drawable="@drawable/female_fighter9" android:duration="150"/>
+    <item android:drawable="@drawable/female_fighter10" android:duration="150"/>
+    <item android:drawable="@drawable/female_fighter11" android:duration="150"/>
+    <item android:drawable="@drawable/female_fighter12" android:duration="150"/>
+    <item android:drawable="@drawable/female_fighter13" android:duration="150"/>
+    <item android:drawable="@drawable/female_fighter14" android:duration="150"/>
+    <item android:drawable="@drawable/female_fighter15" android:duration="150"/>
+    <item android:drawable="@drawable/female_fighter1" android:duration="150"/>
+</animation-list>

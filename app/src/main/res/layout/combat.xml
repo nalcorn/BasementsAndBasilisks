@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:gravity="center_horizontal"
+    android:weightSum="1"
+    android:paddingBottom="10sp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="288dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/creature_fight_image"
+        android:id="@+id/relativeLayout"
+        android:layout_weight="0.68">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:id="@+id/imgMonster"
+            android:adjustViewBounds="true"
+            android:scaleType="fitStart"
+            android:minWidth="100dp"
+            android:minHeight="150dp"
+            android:layout_alignTop="@+id/imgPlayer"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="52dp"
+            android:layout_marginStart="52dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imgPlayer"
+            android:adjustViewBounds="true"
+            android:scaleType="fitStart"
+            android:minWidth="75dp"
+            android:minHeight="125dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="54dp"
+            android:layout_marginEnd="54dp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_weight="0.19">
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/monsterType"
+            android:background="#000000"
+            android:textColor="#ffffff"
+            android:gravity="center"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true" />
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/monsterHealth"
+            android:background="#000000"
+            android:textColor="#ffffff"
+            android:layout_below="@+id/monsterType"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textAlignment="center"
+            android:gravity="center" />
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/playerType"
+            android:background="#000000"
+            android:textColor="#ffffff"
+            android:gravity="center"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true" />
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/playerHealth"
+            android:background="#000000"
+            android:textColor="#ffffff"
+            android:layout_centerVertical="true"
+            android:layout_alignLeft="@+id/playerType"
+            android:layout_alignStart="@+id/playerType"
+            android:textAlignment="center"
+            android:gravity="center" />
+
+    </RelativeLayout>
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="35sp"
+        android:id="@+id/spnAttackHeal"
+        android:entries="@array/attackHeal"
+        android:background="#535353"
+        android:layout_below="@+id/relativeLayout"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentStart="false"
+        android:foregroundGravity="center_vertical"
+        android:layout_marginBottom="25sp"
+        android:gravity="center_vertical"
+        android:textAlignment="center" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="35sp"
+        android:id="@+id/btnAttackHeal"
+        android:layout_gravity="center_horizontal"
+        android:background="#535353"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="Attack" />
+
+</LinearLayout>

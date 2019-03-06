@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true">
+    <item android:drawable="@drawable/dragon1" android:duration="150"/>
+    <item android:drawable="@drawable/dragon2" android:duration="150"/>
+    <item android:drawable="@drawable/dragon3" android:duration="150"/>
+    <item android:drawable="@drawable/dragon4" android:duration="150"/>
+    <item android:drawable="@drawable/dragon5" android:duration="150"/>
+    <item android:drawable="@drawable/dragon6" android:duration="150"/>
+    <item android:drawable="@drawable/dragon7" android:duration="150"/>
+    <item android:drawable="@drawable/dragon8" android:duration="150"/>
+    <item android:drawable="@drawable/dragon9" android:duration="150"/>
+    <item android:drawable="@drawable/dragon10" android:duration="150"/>
+    <item android:drawable="@drawable/dragon11" android:duration="150"/>
+    <item android:drawable="@drawable/dragon12" android:duration="150"/>
+    <item android:drawable="@drawable/dragon13" android:duration="150"/>
+    <item android:drawable="@drawable/dragon14" android:duration="150"/>
+    <item android:drawable="@drawable/dragon15" android:duration="150"/>
+    <item android:drawable="@drawable/dragon16" android:duration="150"/>
+    <item android:drawable="@drawable/dragon17" android:duration="150"/>
+    <item android:drawable="@drawable/dragon18" android:duration="150"/>
+    <item android:drawable="@drawable/dragon19" android:duration="150"/>
+    <item android:drawable="@drawable/dragon20" android:duration="150"/>
+    <item android:drawable="@drawable/dragon21" android:duration="150"/>
+    <item android:drawable="@drawable/dragon1" android:duration="150"/>
+</animation-list>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+        <!-- Screen Design for Photos -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/char_select_image">
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fillViewport="true"
+            android:scrollbars="horizontal|vertical"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:id="@+id/horizontalScrollView">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <ImageButton
+                    android:layout_width="100dp"
+                    android:layout_height="150dp"
+                    android:id="@+id/imageButton"
+                    android:background="@drawable/female_archer1"
+                    android:onClick="sendMessage" />
+
+                <ImageButton
+                    android:layout_width="100dp"
+                    android:layout_height="150dp"
+                    android:id="@+id/imageButton2"
+                    android:background="@drawable/female_fighter1"
+                    android:onClick="sendMessage" />
+
+                <ImageButton
+                    android:layout_width="100dp"
+                    android:layout_height="150dp"
+                    android:id="@+id/imageButton3"
+                    android:background="@drawable/female_mage1"
+                    android:onClick="sendMessage" />
+
+                <ImageButton
+                    android:layout_width="100dp"
+                    android:layout_height="150dp"
+                    android:id="@+id/imageButton4"
+                    android:background="@drawable/male_archer1"
+                    android:onClick="sendMessage" />
+
+                <ImageButton
+                    android:layout_width="100dp"
+                    android:layout_height="150dp"
+                    android:id="@+id/imageButton5"
+                    android:background="@drawable/male_fighter1"
+                    android:onClick="sendMessage" />
+
+                <ImageButton
+                    android:layout_width="100dp"
+                    android:layout_height="150dp"
+                    android:id="@+id/imageButton6"
+                    android:background="@drawable/male_mage1"
+                    android:onClick="sendMessage" />
+
+            </LinearLayout>
+
+        </HorizontalScrollView>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Create Character"
+            android:id="@+id/btnCreateChar"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="#535353" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Select your character"
+            android:id="@+id/textView"
+            android:layout_above="@+id/horizontalScrollView"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="57dp"
+            android:textSize="30dp"
+            android:background="#535353" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/characterSelection"
+            android:textAlignment="center"
+            android:background="#535353"
+            android:layout_above="@+id/btnCreateChar"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="30dp" />
+
+    </RelativeLayout>
+</LinearLayout>
